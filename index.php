@@ -1,1 +1,1 @@
-<html>Welcome to the server</html>
+<html>Welcome to the server. Have a good day.</html>
